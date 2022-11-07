@@ -48,7 +48,7 @@ h4 {
 .three {
     width: 200px;
     height: 200px;
-    background-image: url(/images/gift-box.jpeg);
+    background-image: url(gift-box.jpeg);
     background-size: cover;
     border: 5px solid red;
     margin-left: auto;
@@ -56,6 +56,6 @@ h4 {
 }
 
 .three:hover {
-    background-image: url(/images/happy-gif\ 2.webp);
+    background-image: url(happy-gif\ 2.webp);
 }
 
